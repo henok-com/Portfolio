@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="105.96002px" height="89.411194px" viewBox="0 0 105.96002 89.411194" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="objectBoundingBox" x1="0.99999845" y1="1.0000005" x2="-1.1448667E-06" y2="0.49998218" id="gradient_1">
+      <stop offset="0%" stop-color="#00FF9D" />
+      <stop offset="100%" stop-color="#748CFF" />
+    </linearGradient>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="1" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.49803922 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <path d="M37.9926 0L61.9674 0C66.0088 0 69.5815 2.46136 70.8506 6.11063L72.881 11.9159L87.465 11.9159C94.3568 11.9159 99.96 17.2594 99.96 23.8318L99.96 71.4953C99.96 78.0677 94.3568 83.4112 87.465 83.4112L12.495 83.4112C5.59344 83.4112 0 78.0677 0 71.4953L0 23.8318C0 17.2594 5.59344 11.9159 12.495 11.9159L27.079 11.9159L29.1094 6.11063C30.3785 2.46136 33.9513 0 37.9926 0L37.9926 0L37.9926 0ZM49.98 65.5372C60.3275 65.5372 68.7225 57.5312 68.7225 47.6633C68.7225 37.6279 60.3275 29.7895 49.98 29.7895C39.4569 29.7895 31.2375 37.6279 31.2375 47.6633C31.2375 57.5312 39.4569 65.5372 49.98 65.5372L49.98 65.5372Z" id="Shape" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+</svg>

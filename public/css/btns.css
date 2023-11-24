@@ -1,0 +1,58 @@
+.primaryBtn {
+    width: fit-content;
+}
+.btn {
+    padding: 15px 20px;
+    font-size: 1.5em;
+    background-color: var(--fourthColor);
+    width: fit-content;
+    border-radius: 10px;
+    color: var(--secondaryColor);
+    margin: 5px;
+}
+
+.btn-danger {
+    background-color: var(--dangerColor);
+}
+
+.btn-success {
+    background-color: var(--successColor);
+}
+
+.btn-little {
+    padding: 10px 15px;
+    font-size: 1em;
+}
+
+.primaryBtn img {
+    width: 70px;
+    height: 58.41px;
+    z-index: 1;
+}
+
+.primaryBtn .btn {
+    padding: 5px 20px;
+    background-color: var(--primaryBtnColor);
+    border-radius: 4px;
+    color: var(--textSecondaryColor);
+    top: 3px;
+    right: 9px;
+    font-size: 1.3em;
+    margin: 0;
+}
+
+.squareBtn {
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    background-color: var(--secondaryColor);
+}
+
+.squareBtn i {
+    font-size: 1.9em;
+}
+
+.transparentBtn {
+    padding: 15px 20px;
+    color: var(--textSecondaryColor);
+}

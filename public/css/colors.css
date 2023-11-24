@@ -1,0 +1,33 @@
+:root {
+    --primaryColor: #420080;
+    --fourthColor: #0040ff;
+    --transparentPrimaryColor: #0040ffaa;
+    --transparentSecondaryColor: #cc4ab582;
+    --transparentTernaryColor: #32b4e76e;
+    --transparentFourthColor: #c2c8ff5c;
+    --titleColor: #5ac0ff;
+    --titleSpanColor: #748cff;
+    --primaryBtnColor: #748cff;
+    --primaryDark: #272727;
+    --ternaryColor: #748cff;
+    --secondaryColor: white;
+    --textSecondaryColor: white;
+    --primaryGradient: linear-gradient(45deg, #00ff9d 19.73%, #748cff 76.88%);
+    --secondaryGradient: linear-gradient(
+        180deg,
+        #ffee00 0%,
+        #5eff81 50%,
+        #006aff 100%
+    );
+    --ternaryGradient: linear-gradient(135deg, #6600ff 0%, #aa00ff 100%);
+    --fourthGradient: linear-gradient(
+        180deg,
+        #ffee00 0%,
+        #5eff81 50%,
+        #006aff 100%
+    );
+    --dangerColor: #fb1f1f;
+    --successColor: #1dd41d;
+    --errorColor: #ff6363;
+    --secondarySuccessColor: #91f388;
+}

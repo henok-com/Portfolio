@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="895px" height="895px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.99215686 0 0 0 0 0.8901961 0 0 0 0 0.42745098 0 0 0 1 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.9843137 0 0 0 0 0.8901961 0 0 0 0 0.45882353 0 0 0 1 0" />
+      <feBlend mode="normal" in2="effect0_dropShadow" result="effect1_dropShadow" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feOffset dx="0" dy="2" />
+      <feGaussianBlur stdDeviation="2" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.9882353 0 0 0 0 0.8862745 0 0 0 0 0.44313726 0 0 0 1 0" />
+      <feBlend mode="normal" in2="effect1_dropShadow" result="effect2_dropShadow" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 128 0" />
+      <feMorphology radius="61" operator="dilate" in="SourceAlpha" result="effect3_dropShadow" />
+      <feOffset dx="0" dy="6" />
+      <feGaussianBlur stdDeviation="25" />
+      <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 0.88235295 0 0 0 0 0.3529412 0 0 0 1 0" />
+      <feBlend mode="normal" in2="effect2_dropShadow" result="effect3_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <path d="M0 293.5C0 131.404 131.404 0 293.5 0C455.596 0 587 131.404 587 293.5C587 455.596 455.596 587 293.5 587C131.404 587 0 455.596 0 293.5Z" id="Oval-5" fill="#F7CA04" fill-rule="evenodd" stroke="none" filter="url(#filter_1)" />
+</svg>

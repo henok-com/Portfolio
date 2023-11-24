@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="302.03326px" height="302.164px" viewBox="0 0 302.03326 302.164" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M291.613 144.801C297.369 150.761 297.203 160.255 291.243 166.011L161.043 291.744C155.083 297.5 145.588 297.334 139.833 291.374L10.4199 157.363C4.66437 151.403 4.83008 141.909 10.7901 136.153L140.991 10.4199C146.951 4.66437 156.445 4.83008 162.201 10.7901L291.613 144.801Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Rectangle">
+    <g clip-path="url(#clip_1)">
+      <use xlink:href="#path_1" fill="none" stroke="#8100FA" stroke-width="14" />
+    </g>
+  </g>
+</svg>
